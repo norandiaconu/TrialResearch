@@ -28,6 +28,7 @@ You can then call the program on a file and supply an output filename to run the
 python beat_swap.py <input_filename> <output_filename>
 python beat_swap.py lateralus.mp3 lateralus_swap.mp3
 ```
+This allows the program to work for any song on your system.
 
 [Pyechonest]: https://github.com/echonest/pyechonest
 [Remix Examples]: https://github.com/echonest/remix-examples
